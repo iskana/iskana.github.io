@@ -10,10 +10,11 @@ title: Kana Shimizu
 email: shimizu.kana(a)waseda.jp
 description: Kana Shimizu's personal page
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iskana.github.io/web/" # the base hostname & protocol for your site
+url: "http://iskana.github.io/web/" # the base hostname & protocol for your site
 #twitter_username: hemang_kumar
 github_username:  iskana
 paginate: 5
+#theme-dark: false #Set to true to change to dark website theme
 theme-dark: false
 
 plugins: [jekyll-paginate, kramdown]
