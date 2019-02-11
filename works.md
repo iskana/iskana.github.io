@@ -114,7 +114,7 @@ Competitions
 1. 飯野 翼, 情報処理学会第80回全国大会 大会奨励賞（「タンパク質分子の柔軟性を考慮した新規ドッキングゲーム」）, 2018年3月
 1. 飯野 翼, 情報処理学会第80回全国大会 学生奨励賞（「タンパク質分子の柔軟性を考慮した新規ドッキングゲーム」）, 2018年3月
 1. 須藤 弘貴, 第9回データ工学と情報マネジメントに関するフォーラム 学生プレゼンテーション賞 （「LOUDSと準同型暗号による秘匿決定木評価」）, 2017年3月
-1. Hiroki Sudo, Masanobu Jimbo, 第5回生命医薬情報学連合大会 研究奨励賞（「Secure String Pattern Match Based on Wavelet Matrix」）, 2016年10月1日
+1. 須藤 弘貴, 神保 元脩, 第5回生命医薬情報学連合大会 研究奨励賞（「Secure String Pattern Match Based on Wavelet Matrix」）, 2016年10月1日
 
 **国内の登壇した講演（2015年以降, 抜粋）Talks in Japanese**
 
