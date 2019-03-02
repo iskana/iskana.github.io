@@ -16,7 +16,7 @@ github_username:  iskana
 paginate: 5
 #theme-dark: false #Set to true to change to dark website theme
 theme-dark: false
-
+google_analytics: UA-135456861-1
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
