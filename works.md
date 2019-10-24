@@ -82,14 +82,17 @@ Competitions
 
 **Academic service**
 1. International Society for Computational Biology (ISCB), The affiliates committee, Since 2011
-1. Genome Informatics Workshop, Program Committee, 2018.12
+1. Privacy in Machine Learning (PriML2019), NeurIPS 2019 Workshop, Program Committee, 2019.12
+1. The International Conference on Genome Informatics 2019 (GIW 2019), Program Committee, 2019.12
+1. The International Conference on Genome Informatics 2018 (GIW 2018), Program Committee, 2018.12
 1. The Workshop on Algorithms in Bioinformatics 2018, Program Committee, 2018.8
 1. The Sixteenth Asia Pacific Bioinformatics Conference, Program Committee, 2018.3
 1. The Workshop on Algorithms in Bioinformatics 2017, Program Committee, 2017.8
 1. Private and Secure Machine Learning, ICML 2017 Workshop, General Co-chair, August 11, 2017
 1. The Workshop on Algorithms in Bioinformatics 2016, Program Committee, 2016.8
 1. PRIVAGEN 2015, General Co-chair, September 8, 2015
-1. 文部科学省 科学技術・学術政策研究所 科学技術予測センター(NISTEP) 平成30年度専門調査員
+1. 情報処理学会，理事，2019-2020年度
+1. 文部科学省 科学技術・学術政策研究所 科学技術予測センター(NISTEP) 平成30-31年度専門調査員
 1. IPSJ-ONE, 実行委員, 2019.3
 1. IPSJ-ONE, 実行委員, 2018.3
 1. 情報処理学会第80回全国大会, 実行委員, 2018.3
