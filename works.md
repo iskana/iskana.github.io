@@ -22,7 +22,7 @@ Recommended by Faculty of 1000: (http://f1000.com/prime/1164197)
 1.   Shimizu K, Adachi J, Muraoka Y, ANGLE: a sequencing errors resistant program for predicting protein coding regions in unfinished cDNA. J Bioinform Comput Biol 2006, 4(3): 649-664.
 
 **Referred conference papers**
-1. Keren Jiang, Di Zhang, Tsubasa Iino, Risa Kimura, Tatsuo Nakajima, Kana Shimizu, Masahito Ohue, Yutaka Akiyama, A playful tool for predicting protein-protein docking. In: Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia, Article No.: 40 pp1–5
+1. Keren Jiang, Di Zhang, Tsubasa Iino, Risa Kimura, Tatsuo Nakajima, Kana Shimizu, Masahito Ohue, Yutaka Akiyama, A playful tool for predicting protein-protein docking. In: Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia, 2019, Article No.: 40 pp1–5
 1. Hiraku Morita, Nuttapong Attrapadung and Satsuya Ohata, Koji Nuida, Shota Yamada, Kana Shimizu, Goichiro Hanaoka, Kiyoshi Asai, Secure Division Protocol and Applications to Privacy-preserving Chi-squared Tests. In: Proceedings of The International Symposium on Information Theory and Its Applications 2018, 530-534
 1. H Sudo, K Nuida, K Shimizu, An Efficient Private Evaluation of a Decision Graph, In: Proceedings of the International Conference on Information Security and Cryptology 2018, 143-160
 1. Nuttapong Attrapadung, Goichiro Hanaoka, Shigeo Mitsunari, Yusuke Sakai, Kana Shimizu, Tadanori Teruya, Efficient Two-level Homomorphic Encryption in Prime-order Bilinear Groups and A Fast Implementation in WebAssembly. In:Proceedings of the 2018 on Asia Conference on Computer and Communications Security(ASIA CCS 2018) pp685-697
@@ -136,8 +136,8 @@ Competitions
 1. 清水佳奈,“秘匿ゲノム検索”, CRISMATH 2015（第７回 暗号及び情報セキュリティと数学の相関ワークショップ）, 2015年12月21日, 東京
 
 **その他**
-1. Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu "Reference independent somatic structural variant call", Data Structures in Bioinformatics 2020 (DSB2020), February 2020
-1. 岩田大輝, 清水佳奈, Intel SGXを用いた個人ゲノム情報解析システム, 2020年 暗号と情報セキュリティシンポジウム（SCIS2020), 2020年1月
+1. Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu "Reference independent somatic structural variant call", Data Structures in Bioinformatics 2020 (DSB2020), February, 2020
+1. 岩田大輝, 清水佳奈, Intel SGXを用いた個人ゲノム情報解析システム, 2020年 暗号と情報セキュリティシンポジウム (SCIS2020), 2020年1月
 1. 中川佳貴, 大畑幸矢, 清水佳奈, 秘密分散に基づく秘匿全文検索, コンピュータセキュリティシンポジウム2019（CSS2019）, 2019年10月
 1. 櫻井碧，岩田大輝, 清水佳奈, Intel SGXによるプライバシ保護生命情報解析プラットフォーム, 第8回生命医薬情報学連合大会, 2019年9月（ポスター発表）
 1. 岩田大輝, 清水佳奈, 属性ベース暗号とIntel SGXを用いた堅牢かつ柔軟なアクセス制御を実現するデータ分析プラットフォームの構築, 情報処理学会 バイオ情報学研究会, 2019年6月
