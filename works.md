@@ -2,7 +2,13 @@
 layout: page
 title: Works
 ---
+
+[Google Scholar][Google_Scholar] may be updated earlier than the following list.
+
+[Google_Scholar]: https://scholar.google.co.jp/citations?hl=ja&user=-EEsgxUAAAAJ&view_op=list_works&sortby=pubdate
+
 **Referred journal papers**
+1. Y Nakagawa, S Ohata, K Shimizu, Efficient Privacy-Preserving Variable-Length Substring Match for Genome Sequence (Extended version), Algorithms for Molecular Biology, accepted.
 1. Sudo H, Jimbo M, Nuida K, Shimizu K Secure Wavelet Matrix: Alphabet-Friendly Privacy-Preserving String Search for Bioinformatics. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019:16(5):pp1675-1684
 1. Naoki Matsuo, Natsuko Goda, Kana Shimizu, Satoshi Fukuchi, Motonori Ota, Hidekazu Hiroaki, Discovery of Cryoprotective Activity in Human Genome-Derived Intrinsically Disordered Proteins. International journal of molecular sciences, 2018:19 (2), 401
 1. Shimizu K, Nuida K, R&auml;tsch G, Efficient Privacy-Preserving String Search and an Application in Genomics. Bioinformatics, 2016:32(11): 1652-1661
@@ -22,6 +28,7 @@ Recommended by Faculty of 1000: (http://f1000.com/prime/1164197)
 1.   Shimizu K, Adachi J, Muraoka Y, ANGLE: a sequencing errors resistant program for predicting protein coding regions in unfinished cDNA. J Bioinform Comput Biol 2006, 4(3): 649-664.
 
 **Referred conference papers**
+1. Y Nakagawa, S Ohata, K Shimizu, Efficient Privacy-Preserving Variable-Length Substring Match for Genome Sequence, In: 21st International Workshop on Algorithms in Bioinformatics (WABI 2021), 2:1-2:23.
 1. Keren Jiang, Di Zhang, Tsubasa Iino, Risa Kimura, Tatsuo Nakajima, Kana Shimizu, Masahito Ohue, Yutaka Akiyama, A playful tool for predicting protein-protein docking. In: Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia, 2019, Article No.: 40 pp1–5
 1. Hiraku Morita, Nuttapong Attrapadung and Satsuya Ohata, Koji Nuida, Shota Yamada, Kana Shimizu, Goichiro Hanaoka, Kiyoshi Asai, Secure Division Protocol and Applications to Privacy-preserving Chi-squared Tests. In: Proceedings of The International Symposium on Information Theory and Its Applications 2018, 530-534
 1. H Sudo, K Nuida, K Shimizu, An Efficient Private Evaluation of a Decision Graph, In: Proceedings of the International Conference on Information Security and Cryptology 2018, 143-160
@@ -82,6 +89,7 @@ Competitions
 1. Shimizu K, Muraoka Y, Predicting the Protein Coding Region in cDNA with Frame Shift Errors by Using a Classifier Based on Boosting. ISMB 2004
 
 **Academic service**
+1. International Society for Computational Biology (ISCB), EDI Committee, Since 2021
 1. International Society for Computational Biology (ISCB), The affiliates committee, Since 2011
 1. Privacy in Machine Learning (PriML2019), NeurIPS 2019 Workshop, Program Committee, 2019.12
 1. The International Conference on Genome Informatics 2019 (GIW 2019), Program Committee, 2019.12
@@ -92,16 +100,23 @@ Competitions
 1. Private and Secure Machine Learning, ICML 2017 Workshop, General Co-chair, August 11, 2017
 1. The Workshop on Algorithms in Bioinformatics 2016, Program Committee, 2016.8
 1. PRIVAGEN 2015, General Co-chair, September 8, 2015
-1. 情報処理学会，理事，2019-2020年度
-1. 文部科学省 科学技術・学術政策研究所 科学技術予測センター(NISTEP) 平成30-31年度専門調査員
+1. （JST）さきがけ「社会変革に向けたICT基盤強化」, 領域アドバイザ, 2021年度-
+1. （JST）NBDC「統合化推進プログラム」, 研究アドバイザー, 2020年7月-
+1. 日本バイオインフォマティクス学会, 理事, 2021年度−
+1. 東京高等裁判所 専門委員 2020年度-
+1. 第10回生命医薬情報学連合大会, 2021年9月27日−9月29日 2021, 実行副委員長
+1. DNA配列解析チャレンジ（ゲノコン2021）, コンテスト実行委員, 表彰式座長　
+1. 情報処理学会，理事，2019.6-2021.6
+1. 情報処理学会第83回全国大会, プログラム委員, 2021年3月18日-3月20日
+1. 文部科学省 科学技術・学術政策研究所 科学技術予測センター(NISTEP) 専門調査員，平成30年度-
 1. IPSJ-ONE, 実行委員, 2019.3
 1. IPSJ-ONE, 実行委員, 2018.3
 1. 情報処理学会第80回全国大会, 実行委員, 2018.3
 1. NGS現場の会 世話人, 2017.5
 1. 第5回生命医薬情報学連合大会, BoF: 「ゲノムは個人情報？どのように扱うのが適切か？part 2」−個人情報保護改正法の対象となった遺伝情報をどのように扱っていくのか−, オーガナイザー, 2016年9月29日
-1. 第5回生命医薬情報学連合大会, 2016年9月29日−10月1日 2016, 実行委員
+1. 第5回生命医薬情報学連合大会, 実行委員, 2016年9月29日−10月1日
 1. 生命医薬情報学連合大会 2015, JSBi企画セッション：「ゲノムは個人情報？どのように扱うのが適切か？」−個人情報保護法改正に伴う遺伝情報の取り扱いに関する意見交換会−, オーガナイザー, 2015年10月29日
-1. 日本ユーザビリティ医療情報化推進協議会 ゲノムが作る新たな医療推進委員会, 委員, 2015.8−至現在
+1. 日本ユーザビリティ医療情報化推進協議会 ゲノムが作る新たな医療推進委員会, 委員, 2015.8−
 1. 日本バイオインフォマティクス学会, 監事, 2012年度, 2017年度−2018年度
 1. 日本バイオインフォマティクス学会, 理事, 2010年度−2011年度
 1. 日本バイオインフォマティクス学会, 幹事, 2010年度−2011年度
@@ -118,14 +133,18 @@ Competitions
 1. Kentaro Tomii, Jun-ichi Ito, Yasuo Tabei, Kana Shimizu, Koji Tsuda, 生命医薬情報学連合大会2012年大会 ベストポスター賞（「PoSSuM: A Database for Predicting Protein-Ligand Interactions」）, 2012年10月17日
 
 **Awards for students**
+1. 長谷川望, 2021年日本バイオインフォマティクス学会年会 ・第10回生命医薬情報学連合大会（IIBMP2021）優秀ポスター賞 （「色付きde Bruijnグラフに基づく索引のハッシュ関数を用いた精度向上とサイズ削減」）, 2021年10月
+1. 岩田大輝, SCIS2020暗号と情報セキュリティシンポジウム SCIS論文賞（「Intel SGXを用いた個人ゲノム情報解析システム」）, 2020年4月
 1. 中川佳貴, コンピュータセキュリティシンポジウム2019（CSS2019）奨励賞（「秘密分散に基づく秘匿全文検索」）, 2019年10月
+1. 櫻井碧, 第58回バイオ情報学研究会 SIGBIO優秀プレゼンテーション賞（「BV-SGX: 生命情報解析向け仮想マシンを搭載したSGXクラウド」）, 2019年6月
 1. 櫻井碧, 2019年度未踏IT人材発掘・育成事業採択（「生命情報解析向けインタプリタを搭載した秘密計算用クラウド」）, 2019年6月
-1. 飯野翼, 情報処理学会第80回全国大会 大会奨励賞（「タンパク質分子の柔軟性を考慮した新規ドッキングゲーム」）, 2018年3月
-1. 飯野翼, 情報処理学会第80回全国大会 学生奨励賞（「タンパク質分子の柔軟性を考慮した新規ドッキングゲーム」）, 2018年3月
+1. 飯野翼, 情報処理学会第80回全国大会 大会奨励賞（「タンパク質分子の柔軟性を考慮した新規ドッキングゲーム」）, 2018年1月
+1. 飯野翼, 情報処理学会第80回全国大会 学生奨励賞（「タンパク質分子の柔軟性を考慮した新規ドッキングゲーム」）, 2018年1月
 1. 須藤弘貴, 第9回データ工学と情報マネジメントに関するフォーラム 学生プレゼンテーション賞 （「LOUDSと準同型暗号による秘匿決定木評価」）, 2017年3月
 1. 須藤弘貴, 神保元脩, 第5回生命医薬情報学連合大会 研究奨励賞（「Secure String Pattern Match Based on Wavelet Matrix」）, 2016年10月1日
 
 **国内の講演（依頼／招待, 2015年以降, 抜粋）Invited talks in Japanese**
+1. 清水佳奈, "秘密計算による安全なゲノム配列検索", 2022年電子情報通信学会総合大会, 2022年3月18日
 1. 清水佳奈, "簡潔データ構造を用いた秘密計算の高速化", 第３回　東京大学数理情報学談話会, 2020年1月7日
 1. 清水佳奈, "生命情報をどのように守り，安全に活用するのか", 生命情報科学若手の会 第11回研究会, 2019年10月18日
 1. 清水佳奈, "生体情報セキュリティ", 第58回 日本生体医工学会大会, 2019年6月7日
@@ -136,23 +155,25 @@ Competitions
 1. 清水佳奈,“秘匿ゲノム検索”, CRISMATH 2015（第７回 暗号及び情報セキュリティと数学の相関ワークショップ）, 2015年12月21日, 東京
 
 **その他**
-1. Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu "Reference independent somatic structural variant call", Data Structures in Bioinformatics 2020 (DSB2020), February, 2020
-1. 岩田大輝, 清水佳奈, Intel SGXを用いた個人ゲノム情報解析システム, 2020年 暗号と情報セキュリティシンポジウム (SCIS2020), 2020年1月
-1. 中川佳貴, 大畑幸矢, 清水佳奈, 秘密分散に基づく秘匿全文検索, コンピュータセキュリティシンポジウム2019（CSS2019）, 2019年10月
-1. 櫻井碧，岩田大輝, 清水佳奈, Intel SGXによるプライバシ保護生命情報解析プラットフォーム, 第8回生命医薬情報学連合大会, 2019年9月（ポスター発表）
-1. 岩田大輝, 清水佳奈, 属性ベース暗号とIntel SGXを用いた堅牢かつ柔軟なアクセス制御を実現するデータ分析プラットフォームの構築, 情報処理学会 バイオ情報学研究会, 2019年6月
-1. 櫻井碧，清水佳奈, BV-SGX: 生命情報解析向け仮想マシンを搭載したSGXクラウド, 情報処理学会 バイオ情報学研究会, 2019年6月 
-1. 山本奈津子，川嶋実苗，清水 佳奈，片山俊明，荻島創一 “＜続＞改正個人情報保護法でゲノム研究はどう変わるか？” 実験医学 2018年8月号 Vol.36 No.13, p2260-2268, 2018年8月
-1. 清水 佳奈, 山本奈津子，川嶋実苗，片山俊明，荻島創一 “改正個人情報保護法でゲノム研究はどう変わるか？ー個人識別符号・要配慮情報としてのゲノムデータ” 実験医学 2017年3月号 Vol.35 No.4, p600-605, 2017年3月
-1. 飯野 翼，大上 雅史，秋山 泰，清水 佳奈，タンパク質分子の柔軟性を考慮した新規ドッキングゲーム, 情報処理学会第80回全国大会，2018年3月
-1. 山田 太樹，清水 佳奈, 高速に類似文字列ペアを発見するビット並列フィルター，情報処理学会第80回全国大会，2018年3月
-1. 小久保 剛基, 清水 佳奈，堅牢かつ有用なDNAストレージシステム設計のためのデータ変換法の比較，情報処理学会第80回全国大会，2018年3月
-1. 須藤 弘貴,　清水 佳奈，LOUDSと準同型暗号による秘匿決定木評価，第9回データ工学と情報マネジメントに関するフォーラム，2017年3月
-1. Hiroki Sudo, Masanobu Jimbo, Koji Nuida and Kana Shimizu, “Secure String Pattern Match Based on Wavelet Matrix”, 第５回生命医薬情報学連合大会, 2016年9月30日（口頭発表）
-1. Masanobu Jimbo, Hiroki Sudo and Kana Shimizu. “Towards Secure Matchmaker Exchange, Secure Similarity Evaluation Using Minhash.”, 第５回生命医薬情報学連合大会, 2016年9月30日（ポスター発表）
-1. 清水 佳奈, “生命情報科学におけるプライバシ保護検索” 日本シミュレーション学会学会誌：シミュレーション (小特集: エネルギーシミュレーションとデータ解析), 第35巻 第1号 p26-31
-1. 石巻 優, 清水 佳奈, 縫田 光司, 山名 早人, “完全準同型暗号を用いた高速なゲノム秘匿検索”, 2016年暗号と情報セキュリティシンポジウム(SCIS2016)予稿集, 電子情報通信学会 （電子媒体）, 2016年1月
-1. 清水佳奈, 縫田光司, Gunnar Rätsch,“Efficient Privacy-Preserving Genomic Sequence Search”, 生命医薬情報学連合大会 2015, 2015年10月30日, 京都
+1. 長谷川望, 清水佳奈, 色付きde Bruijnグラフに基づく索引のハッシュ関数を用いた精度向上とサイズ削減, 第10回生命医薬情報学連合大会（IIBMP2021）（ポスター発表）
+2.  山田太樹, 千葉健一,  片岡 圭亮, 白石友一, 清水佳奈, Novel reference-free detection of somatic structural variant based on graph-aware index, 第9回生命医薬情報学連合大会（IIBMP2021）（口頭発表）
+3. Taiki Yamada, Kenichi Chiba, Nozomi Hasegawa, Keisuke Kataoka, Yuichi Shiraishi and Kana Shimizu "Reference independent somatic structural variant call", Data Structures in Bioinformatics 2020 (DSB2020), February, 2020
+4. 岩田大輝, 清水佳奈, Intel SGXを用いた個人ゲノム情報解析システム, 2020年 暗号と情報セキュリティシンポジウム (SCIS2020), 2020年1月
+5. 中川佳貴, 大畑幸矢, 清水佳奈, 秘密分散に基づく秘匿全文検索, コンピュータセキュリティシンポジウム2019（CSS2019）, 2019年10月
+6. 櫻井碧，岩田大輝, 清水佳奈, Intel SGXによるプライバシ保護生命情報解析プラットフォーム, 第8回生命医薬情報学連合大会, 2019年9月（ポスター発表）
+7. 岩田大輝, 清水佳奈, 属性ベース暗号とIntel SGXを用いた堅牢かつ柔軟なアクセス制御を実現するデータ分析プラットフォームの構築, 情報処理学会 バイオ情報学研究会, 2019年6月
+8. 櫻井碧，清水佳奈, BV-SGX: 生命情報解析向け仮想マシンを搭載したSGXクラウド, 情報処理学会 バイオ情報学研究会, 2019年6月 
+9. 山本奈津子，川嶋実苗，清水 佳奈，片山俊明，荻島創一 “＜続＞改正個人情報保護法でゲノム研究はどう変わるか？” 実験医学 2018年8月号 Vol.36 No.13, p2260-2268, 2018年8月
+10. 清水 佳奈, 山本奈津子，川嶋実苗，片山俊明，荻島創一 “改正個人情報保護法でゲノム研究はどう変わるか？ー個人識別符号・要配慮情報としてのゲノムデータ” 実験医学 2017年3月号 Vol.35 No.4, p600-605, 2017年3月
+11. 飯野 翼，大上 雅史，秋山 泰，清水 佳奈，タンパク質分子の柔軟性を考慮した新規ドッキングゲーム, 情報処理学会第80回全国大会，2018年3月
+12. 山田 太樹，清水 佳奈, 高速に類似文字列ペアを発見するビット並列フィルター，情報処理学会第80回全国大会，2018年3月
+13. 小久保 剛基, 清水 佳奈，堅牢かつ有用なDNAストレージシステム設計のためのデータ変換法の比較，情報処理学会第80回全国大会，2018年3月
+14. 須藤 弘貴,　清水 佳奈，LOUDSと準同型暗号による秘匿決定木評価，第9回データ工学と情報マネジメントに関するフォーラム，2017年3月
+15. Hiroki Sudo, Masanobu Jimbo, Koji Nuida and Kana Shimizu, “Secure String Pattern Match Based on Wavelet Matrix”, 第５回生命医薬情報学連合大会, 2016年9月30日（口頭発表）
+16. Masanobu Jimbo, Hiroki Sudo and Kana Shimizu. “Towards Secure Matchmaker Exchange, Secure Similarity Evaluation Using Minhash.”, 第５回生命医薬情報学連合大会, 2016年9月30日（ポスター発表）
+17. 清水 佳奈, “生命情報科学におけるプライバシ保護検索” 日本シミュレーション学会学会誌：シミュレーション (小特集: エネルギーシミュレーションとデータ解析), 第35巻 第1号 p26-31
+18. 石巻 優, 清水 佳奈, 縫田 光司, 山名 早人, “完全準同型暗号を用いた高速なゲノム秘匿検索”, 2016年暗号と情報セキュリティシンポジウム(SCIS2016)予稿集, 電子情報通信学会 （電子媒体）, 2016年1月
+19. 清水佳奈, 縫田光司, Gunnar Rätsch,“Efficient Privacy-Preserving Genomic Sequence Search”, 生命医薬情報学連合大会 2015, 2015年10月30日, 京都
 
 **Media**
 1. 日本経済新聞（２面、夕刊）「ゲノム医療　科学者が支える」2017.6.21
