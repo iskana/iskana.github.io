@@ -91,6 +91,7 @@ Competitions
 **Academic service**
 1. International Society for Computational Biology (ISCB), EDI Committee, Since 2021
 1. International Society for Computational Biology (ISCB), The affiliates committee, Since 2011
+1. GIW/ISCB-ASIA 2022, Program Committee, 2022.12
 1. Privacy in Machine Learning (PriML2019), NeurIPS 2019 Workshop, Program Committee, 2019.12
 1. The International Conference on Genome Informatics 2019 (GIW 2019), Program Committee, 2019.12
 1. The International Conference on Genome Informatics 2018 (GIW 2018), Program Committee, 2018.12
