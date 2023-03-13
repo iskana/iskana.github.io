@@ -8,7 +8,8 @@ title: Works
 [Google_Scholar]: https://scholar.google.co.jp/citations?hl=ja&user=-EEsgxUAAAAJ&view_op=list_works&sortby=pubdate
 
 **Referred journal papers**
-1. Y Nakagawa, S Ohata, K Shimizu, Efficient Privacy-Preserving Variable-Length Substring Match for Genome Sequence (Extended version), Algorithms for Molecular Biology, accepted.
+1. N Hasegawa, K Shimizu, Efficient Colored de Bruijn Graph for Indexing Reads, Journal of Computational Biology, accepted
+1. Y Nakagawa, S Ohata, K Shimizu, Efficient Privacy-Preserving Variable-Length Substring Match for Genome Sequence (Extended version), Algorithms for Molecular Biology, 2022, 17, Article number: 9.
 1. Sudo H, Jimbo M, Nuida K, Shimizu K Secure Wavelet Matrix: Alphabet-Friendly Privacy-Preserving String Search for Bioinformatics. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019:16(5):pp1675-1684
 1. Naoki Matsuo, Natsuko Goda, Kana Shimizu, Satoshi Fukuchi, Motonori Ota, Hidekazu Hiroaki, Discovery of Cryoprotective Activity in Human Genome-Derived Intrinsically Disordered Proteins. International journal of molecular sciences, 2018:19 (2), 401
 1. Shimizu K, Nuida K, R&auml;tsch G, Efficient Privacy-Preserving String Search and an Application in Genomics. Bioinformatics, 2016:32(11): 1652-1661
@@ -28,6 +29,7 @@ Recommended by Faculty of 1000: (http://f1000.com/prime/1164197)
 1.   Shimizu K, Adachi J, Muraoka Y, ANGLE: a sequencing errors resistant program for predicting protein coding regions in unfinished cDNA. J Bioinform Comput Biol 2006, 4(3): 649-664.
 
 **Referred conference papers**
+1. Mohammad Nabil Ahmed, Kana Shimizu, Private Evaluation of a Decision Tree basedon Secret Sharing, In: 25th Annual International Conference on Information Security and Cryptology (ICISC 2022)
 1. Y Nakagawa, S Ohata, K Shimizu, Efficient Privacy-Preserving Variable-Length Substring Match for Genome Sequence, In: 21st International Workshop on Algorithms in Bioinformatics (WABI 2021), 2:1-2:23.
 1. Keren Jiang, Di Zhang, Tsubasa Iino, Risa Kimura, Tatsuo Nakajima, Kana Shimizu, Masahito Ohue, Yutaka Akiyama, A playful tool for predicting protein-protein docking. In: Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia, 2019, Article No.: 40 pp1–5
 1. Hiraku Morita, Nuttapong Attrapadung and Satsuya Ohata, Koji Nuida, Shota Yamada, Kana Shimizu, Goichiro Hanaoka, Kiyoshi Asai, Secure Division Protocol and Applications to Privacy-preserving Chi-squared Tests. In: Proceedings of The International Symposium on Information Theory and Its Applications 2018, 530-534
@@ -101,6 +103,7 @@ Competitions
 1. Private and Secure Machine Learning, ICML 2017 Workshop, General Co-chair, August 11, 2017
 1. The Workshop on Algorithms in Bioinformatics 2016, Program Committee, 2016.8
 1. PRIVAGEN 2015, General Co-chair, September 8, 2015
+1. 国立研究開発法人日本医療研究開発機構（AMED）, 課題評価委員, 2023年1月-
 1. （JST）さきがけ「社会変革に向けたICT基盤強化」, 領域アドバイザ, 2021年度-
 1. （JST）NBDC「統合化推進プログラム」, 研究アドバイザー, 2020年7月-
 1. 日本バイオインフォマティクス学会, 理事, 2021年度−
